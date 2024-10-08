@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avinaldo22
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning problem solving
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me avinashselvan11@gmail.com
 - ⚡ Fun fact: I was once a national swimmer for ICSE
